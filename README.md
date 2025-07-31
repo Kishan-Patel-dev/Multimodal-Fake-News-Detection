@@ -1,9 +1,9 @@
 
-# MULTImodal Misinformation & Disinformation Detection and Verification
+# Multi-modal Misinformation & Disinformation Detection and Verification
 
 ## Overview
 
-**MULTImodal Misinformation & Disinformation Detection and Verification** is a comprehensive project aimed at detecting and verifying fake news using multiple data sources, including text, images, audio, and video. This initiative leverages advanced machine learning techniques to identify and combat misinformation, particularly in the complex and dynamic context of the ongoing Ukrainian-Russian war. The project emphasizes the importance of reliable information in today's digital age, where misinformation can have serious consequences.
+**Multi-modal Misinformation & Disinformation Detection and Verification** is a comprehensive project aimed at detecting and verifying fake news using multiple data sources, including text, images, audio, and video. This initiative leverages advanced machine learning techniques to identify and combat misinformation, particularly in the complex and dynamic context of the ongoing Ukrainian-Russian war. The project emphasizes the importance of reliable information in today's digital age, where misinformation can have serious consequences.
 
 ## Technologies Used
 
